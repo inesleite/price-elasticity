@@ -1,1 +1,1 @@
-# price_elasticity
+# price-elasticity
