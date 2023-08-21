@@ -1,1 +1,3 @@
-# price-elasticity
+# Price Elasticity
+
+Price Elasticity of Demand
